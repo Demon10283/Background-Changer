@@ -1,0 +1,33 @@
+:root {
+  /* UI Colors */
+  --panel-bg: rgba(25, 25, 35, 0.65);
+  --panel-border: rgba(255, 255, 255, 0.1);
+  --text-primary: #ffffff;
+  --text-secondary: #a1a1aa;
+  --divider-color: rgba(255, 255, 255, 0.08);
+
+  /* Button Colors */
+  --btn-bg: #ffffff;
+  --btn-text: #09090b;
+  --btn-hover: #e4e4e7;
+
+  /* Typography */
+  --font-main: "Outfit", sans-serif;
+
+  /* Swatch Colors */
+  --c1: #18181b;
+  --c2: #f43f5e;
+  --c3: #10b981;
+  --c4: #3b82f6;
+  --c5: #8b5cf6;
+
+  /* Swatch Gradients */
+  --g1: linear-gradient(45deg, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+  --g2: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --g3: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+  --g4: linear-gradient(to top, #09203f 0%, #537895 100%);
+
+  /* Effects */
+  --shadow-panel: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  --blur-amount: blur(20px);
+}
